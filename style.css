@@ -36,3 +36,11 @@ button {
   h1, h5 {
     font-weight: bold;
   }
+
+  p.card-text {
+    text-align: center;
+  }
+
+  h5.card-title {
+    text-align: center;
+  }
